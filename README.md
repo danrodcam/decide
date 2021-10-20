@@ -2,7 +2,7 @@
 UN CAMBIO
 Plataforma voto electrónico educativa
 =====================================
-
+uotro Cambio
 El objetivo de este proyecto es implementar una plataforma de voto
 electrónico seguro, que cumpla una serie de garantías básicas, como la
 anonimicidad y el secreto del voto.
